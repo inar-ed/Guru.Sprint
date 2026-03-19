@@ -2,11 +2,13 @@
 fun main() {
     val name = "Kotlin"
 
-    println("Hello, " + name + "!")
-    println("Hello, Nurgali Aslanovich" )
+    println("Hello, Nurgali Aslanovich")
+    println()
 
-    for (i in 1..5) {
+    val a: Int = 12
+    val b: String = " "
+    val c: Boolean
 
-        println("i = $i")
-    }
+    println("Сделал")
+
 }
